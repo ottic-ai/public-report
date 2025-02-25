@@ -119,3 +119,78 @@ andrea.rivetti@arklok.com.br
 
 ---
 
+# Happy  
+**Inicia expansão para Países Baixos nos próximos meses**  
+
+## Oneliner  
+Rede de escolas que oferece cursos não tradicionais para crianças e jovens, abrangendo áreas como programação, educação financeira, inglês, comunicação e letramento musical.  
+
+## Revenue  
+- **2023**: R$ 5,3 milhões  
+- **2024**: -  
+- **2025**: R$ 80 milhões (projetado)  
+
+## Business Model  
+Diferente das franquias, a empresa atua com parceiros locais como sócios, assegurando a adaptação dos conteúdos para cada país.  
+
+## User Base  
+- **2024**: 25 mil alunos  
+- **2025**: 100 mil alunos (projetado)  
+
+## Investments  
+- **2018**: Levantamento de R$ 7 milhões pela A2GK Holdings.  
+- **2021**: Happy Code adquirida por A2GK Holdings (valor não divulgado).  
+
+## Competitive Advantages  
+- Operação internacional na Espanha, Portugal, França e Angola.  
+
+## Headcount  
+- **2023**: 935 colaboradores  
+- **2024**: 1018 colaboradores  
+- **2025**: 1071 colaboradores  
+
+> *Pode incluir associate members*  
+
+## No Roadmap  
+- Expansão para novos mercados internacionais e parcerias estratégicas.  
+- Alcançar mais de 300 instituições até o fim de 2025.  
+
+## Contatos  
+**Otoniel Silva (CEO)**  
+[otoniel@happy.com.br](mailto:otoniel@happy.com.br)  
+📞 +55 19 3368-9331 (HQ)  
+
+---
+
+# Navegam  
+**Anuncia projeção de R$ 40 milhões de faturamento em 2025**  
+
+## Faturamento  
+- **2023**: R$ 6,5 milhões  
+- **2024**: -  
+- **2025**: R$ 40 milhões (projetado)  
+
+## User Base  
+- R$ 500 milhões em notas fiscais movimentados anualmente.  
+- +300 mil passagens vendidas pelo marketplace em 2024.  
+
+## Competitive Advantages  
+- Contrato com DHL para distribuição da Starlink na região.  
+- Especialização em logística fluvial.  
+- Consolidado em região onde 70% dos municípios só são acessíveis por via fluvial.  
+
+## Business Model  
+Marketplace digitalizando a venda de passagens e facilitando o envio de cargas fluviais em uma região onde 70% dos municípios são acessíveis apenas por via fluvial.  
+
+## No Roadmap  
+Para 2025, a Navegam foca na ampliação da infraestrutura:  
+1. Centro de distribuição de **4.500m²**.  
+2. Novas parcerias com companhias aéreas para expandir a logística multimodal.  
+3. Frota própria de barcos, reduzindo custos e otimizando prazos de entrega.  
+4. Hub de produtos, conectando produtores amazônicos a mercados nacionais.  
+
+## Contatos  
+**Geferson Oliveira (CEO)**  
+[geferson.oliveira@gruponavegam.com.br](mailto:geferson.oliveira@gruponavegam.com.br)  
+📞 +55 92 99388-8533  
+📞 +55 92 98122-9575  
