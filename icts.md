@@ -2,7 +2,7 @@ Ottic engine <br> v3.2.47.982-BETA <br>
 25.Fev<br>
 
 
-# ICTS Protivit
+# ICTS Protiviti
 
 ### Oneliner
 Holding de empresas pioneiras em soluções de prevenção de riscos, compliance e segurança no Brasil. 
