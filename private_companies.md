@@ -13,6 +13,15 @@ Plataforma digital que conecta motoristas autônomos a transportadoras
 - **2024:** R$ 180 milhões  
 - **2025:** R$ 350 milhões (projetado)
 
+ ### Dados DRE 
+
+- **2021**: R$ 245 mil (Receita Operacional Bruta), R$ -23 mil (Resultado do Exercício)
+- **2022**: R$ 962 mil (Receita Operacional Bruta), R$ -46 mil (Resultado do Exercício)
+- **2023**: R$ 22,5 milhões (Receita Operacional Bruta), R$ 3,64 milhões (Resultado do Exercício)
+
+  [Baixar DRE completas em PDF](#)
+  
+
 ### Growth
 - Crescimento médio de **20% MoM**
 - Forte componente orgânico com referral entre transportadoras e motoristas
