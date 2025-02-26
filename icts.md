@@ -77,7 +77,9 @@ Valor inicial: R$ 278.000,00 > Valor atualizado do contrato R$ 903.500,08
 - **EY global**: registrou receita global de US$ 51,2 bilhões em 2024 (aumento de 3.6% em relação a 2023)
 
 ### Contatos:
-**André Oliveira (CEO)**  
-andre@motoristapx.com.br  
-+55 47 99220-1082  
-+55 47 99911-6633  
+- [Fernando Fleider](https://www.linkedin.com/in/fleider/)
+
+- fernando.fleider@protiviti.com.br
+
+- +55 11 99175-5690
+
