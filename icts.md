@@ -1,6 +1,5 @@
 Ottic engine <br> v3.2.47.982-BETA <br>
 25.Fev<br>
-Kinea
 
 
 # ICTS Proviti
