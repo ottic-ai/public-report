@@ -2,7 +2,7 @@ Ottic engine <br> v3.2.47.982-BETA <br>
 25.Fev<br>
 
 
-# ICTS Proviti
+# ICTS Protivit
 
 ### Oneliner
 Holding de empresas pioneiras em soluções de prevenção de riscos, compliance e segurança no Brasil. 
@@ -12,7 +12,7 @@ Holding de empresas pioneiras em soluções de prevenção de riscos, compliance
 
 ### Faturamento:
 - ~US$91.4 milhões de dólares em faturamento anual  
-* Proviti global possui faturamento superior a $ 1,5 bilhão de dólares 
+* Protiviti global possui faturamento superior a $ 1,5 bilhão de dólares 
 (se incluindo rede de subsidiárias e firmas-membro independentes
 
 ### Modelo de negócio
