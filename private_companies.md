@@ -19,7 +19,7 @@ Plataforma digital que conecta motoristas autônomos a transportadoras
 - **2022**: R$ 962 mil (Receita Operacional Bruta), R$ -46 mil (Resultado do Exercício)
 - **2023**: R$ 22,5 milhões (Receita Operacional Bruta), R$ 3,64 milhões (Resultado do Exercício)
 
-  [Baixar DRE completas em PDF](#)
+  [Baixar DREs completas em Excel](https://docs.google.com/spreadsheets/d/14UUZZSyKu5Del0V5DUwD9Q3TbvJC6Usfj1wL69ebWyc/edit?usp=sharing)
   
 
 ### Growth
