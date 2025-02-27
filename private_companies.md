@@ -88,6 +88,13 @@ Locação de equipamentos de TI (**hardware as a service**)
 - **2023:** -
 - **2024:** R$ 300 milhões
 
+ ### Dados DRE 
+
+- **2021**: R$ 94 millhões (Receita Operacional Líquida), R$ 16,6 milhões (Lucro Líquido do Exercício)
+- **2022**: R$ 134 millhões (Receita Operacional Líquida), R$ 22,6 milhões (Lucro Líquido do Exercício)
+
+[Baixar DREs completas em Excel](https://docs.google.com/spreadsheets/d/1BxABn-W94rBqehkQhFd6-mTSae5DVuXlJZtc3zjbOiU/edit?usp=sharing)
+
 ### Growth
 - Crescimento médio de **50% ao ano** nos últimos anos
 - Em **2024**, crescimento de **30% na receita**
